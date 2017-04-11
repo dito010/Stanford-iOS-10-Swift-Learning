@@ -1,10 +1,9 @@
 //
-//  ViewController.swift
-//  Calculator
 //
-//  Created by lava on 2017/4/10.
-//  Copyright © 2017年 NewPan. All rights reserved.
-//
+/*
+ * Hello, I am NewPan, I'm glad we can learn Swift 3.0 together.
+ * You can contact me by click https://github.com/Chris-Pan or http://www.jianshu.com/u/e2f2d779c022 if you have any question.
+ */
 
 import UIKit
 
